@@ -4,6 +4,7 @@ Tâches de groupe :
   - Création du Backlog.
   - Recueil client.
   - Création des users story utilisateurs, candidats, secrétaires et formateurs.
+
 Mes tâches dans ce projet :
   - Création du brandboard et du guide d'utilisation de celui-ci.
   - Ma tâche suivante étant l'intégration des pages, j'en ai profité pour aider mes camarades dans leurs tâches, en particulier refaire la maquette en prenant en compte Bootstrap.
